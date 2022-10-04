@@ -1,6 +1,12 @@
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
 # Quote Generator
 
 A brief description of what this project does and who it's for
+
+## Authors
+
+- [@LinerFox](https://www.github.com/LinerFox)
 
 ## Features
 
@@ -16,8 +22,6 @@ If you have any feedback, please reach out to us at karkinoscode@gmail.com
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 ## Roadmap
 
@@ -40,10 +44,6 @@ Answer 2
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-## Authors
-
-- [@LinerFox](https://www.github.com/LinerFox)
 
 ## Acknowledgements
 
